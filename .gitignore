@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/.vs/jbbmo-Introduction-to-Git-and-GitHub/FileContentIndex/027ca8ce-a732-4067-a782-a4e89a033a70.vsidx
+/.vs/jbbmo-Introduction-to-Git-and-GitHub/FileContentIndex/2e10e031-a5e1-4f69-af54-a867f9faf255.vsidx
+/.vs/slnx.sqlite
+*.vsidx
